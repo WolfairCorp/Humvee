@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: b3e5958bcb3a34645a7e90cdcb84b976
+timeCreated: 1494764448
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back
+    100002: BackDown
+    100004: BackUp
+    100006: DBackLeft
+    100008: DBackRight
+    100010: DFrontRight
+    100012: DoorFrontLeft
+    100014: Doors
+    100016: FrontGlass
+    100018: Glss
+    100020: Glss_001
+    100022: Glss_002
+    100024: Glss_003
+    100026: //RootNode
+    100028: Phrs
+    100030: Retro
+    400000: Back
+    400002: BackDown
+    400004: BackUp
+    400006: DBackLeft
+    400008: DBackRight
+    400010: DFrontRight
+    400012: DoorFrontLeft
+    400014: Doors
+    400016: FrontGlass
+    400018: Glss
+    400020: Glss_001
+    400022: Glss_002
+    400024: Glss_003
+    400026: //RootNode
+    400028: Phrs
+    400030: Retro
+    2300000: BackDown
+    2300002: BackUp
+    2300004: DBackLeft
+    2300006: DBackRight
+    2300008: DFrontRight
+    2300010: DoorFrontLeft
+    2300012: FrontGlass
+    2300014: Glss
+    2300016: Glss_001
+    2300018: Glss_002
+    2300020: Glss_003
+    2300022: //RootNode
+    2300024: Phrs
+    2300026: Retro
+    3300000: BackDown
+    3300002: BackUp
+    3300004: DBackLeft
+    3300006: DBackRight
+    3300008: DFrontRight
+    3300010: DoorFrontLeft
+    3300012: FrontGlass
+    3300014: Glss
+    3300016: Glss_001
+    3300018: Glss_002
+    3300020: Glss_003
+    3300022: //RootNode
+    3300024: Phrs
+    3300026: Retro
+    4300000: Humvee
+    4300002: Retro
+    4300004: Phrs
+    4300006: FrontGlass
+    4300008: BackDown
+    4300010: BackUp
+    4300012: DBackRight
+    4300014: Glss_003
+    4300016: DFrontRight
+    4300018: Glss_001
+    4300020: DoorFrontLeft
+    4300022: Glss
+    4300024: DBackLeft
+    4300026: Glss_002
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
