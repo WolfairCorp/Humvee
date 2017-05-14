@@ -21,6 +21,23 @@ ModelImporter:
     100026: //RootNode
     100028: Phrs
     100030: Retro
+    100032: Antenna
+    100034: Back_001
+    100036: BackDown_001
+    100038: BackL
+    100040: BackR
+    100042: Front
+    100044: Humvee
+    100046: Humvee_001
+    100048: Humvee_002
+    100050: Humvee_003
+    100052: Humvee_004
+    100054: Humvee_005
+    100056: Humvee_006
+    100058: Humvee_007
+    100060: Humvee_008
+    100062: Humvee_009
+    100064: U
     400000: Back
     400002: BackDown
     400004: BackUp
@@ -37,6 +54,23 @@ ModelImporter:
     400026: //RootNode
     400028: Phrs
     400030: Retro
+    400032: Antenna
+    400034: Back_001
+    400036: BackDown_001
+    400038: BackL
+    400040: BackR
+    400042: Front
+    400044: Humvee
+    400046: Humvee_001
+    400048: Humvee_002
+    400050: Humvee_003
+    400052: Humvee_004
+    400054: Humvee_005
+    400056: Humvee_006
+    400058: Humvee_007
+    400060: Humvee_008
+    400062: Humvee_009
+    400064: U
     2300000: BackDown
     2300002: BackUp
     2300004: DBackLeft
@@ -51,6 +85,22 @@ ModelImporter:
     2300022: //RootNode
     2300024: Phrs
     2300026: Retro
+    2300028: Antenna
+    2300030: BackDown_001
+    2300032: BackL
+    2300034: BackR
+    2300036: Front
+    2300038: Humvee
+    2300040: Humvee_001
+    2300042: Humvee_002
+    2300044: Humvee_003
+    2300046: Humvee_004
+    2300048: Humvee_005
+    2300050: Humvee_006
+    2300052: Humvee_007
+    2300054: Humvee_008
+    2300056: Humvee_009
+    2300058: U
     3300000: BackDown
     3300002: BackUp
     3300004: DBackLeft
@@ -65,6 +115,22 @@ ModelImporter:
     3300022: //RootNode
     3300024: Phrs
     3300026: Retro
+    3300028: Antenna
+    3300030: BackDown_001
+    3300032: BackL
+    3300034: BackR
+    3300036: Front
+    3300038: Humvee
+    3300040: Humvee_001
+    3300042: Humvee_002
+    3300044: Humvee_003
+    3300046: Humvee_004
+    3300048: Humvee_005
+    3300050: Humvee_006
+    3300052: Humvee_007
+    3300054: Humvee_008
+    3300056: Humvee_009
+    3300058: U
     4300000: Humvee
     4300002: Retro
     4300004: Phrs
@@ -79,6 +145,21 @@ ModelImporter:
     4300022: Glss
     4300024: DBackLeft
     4300026: Glss_002
+    4300028: Humvee_009
+    4300030: Humvee_008
+    4300032: Humvee_007
+    4300034: Humvee_006
+    4300036: Humvee_005
+    4300038: Humvee_004
+    4300040: Humvee_003
+    4300042: Humvee_002
+    4300044: Humvee_001
+    4300046: BackL
+    4300048: U
+    4300050: BackR
+    4300052: Antenna
+    4300054: Front
+    4300056: BackDown_001
     7400000: Default Take
     9500000: //RootNode
   materials:
