@@ -1,0 +1,18 @@
+Load(Model): Wolfair/Parts/Humvee/model
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+File error:
+Failed to read past end of stream.
+  at System.IO.BinaryReader.FillBuffer (Int32 numBytes) [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadInt32 () [0x00000] in <filename unknown>:0 
+  at PartReader.ReadMesh (System.IO.BinaryReader br) [0x00000] in <filename unknown>:0 
+  at PartReader.ReadChild (System.IO.BinaryReader br, UnityEngine.Transform parent) [0x00000] in <filename unknown>:0 
+  at PartReader.ReadChild (System.IO.BinaryReader br, UnityEngine.Transform parent) [0x00000] in <filename unknown>:0 
+  at PartReader.Read (.UrlFile file) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Model load error in 'C:\Users\15150042\Desktop\KSP\GameData\Wolfair\Parts\Humvee\model.mu'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
