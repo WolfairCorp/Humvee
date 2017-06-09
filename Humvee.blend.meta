@@ -38,6 +38,23 @@ ModelImporter:
     100060: Humvee_008
     100062: Humvee_009
     100064: U
+    100066: BackL_001
+    100068: BackR_001
+    100070: BackUp_001
+    100072: CofferDwn
+    100074: CofferUp
+    100076: DBackLeft_001
+    100078: DBackRight_001
+    100080: DFrontRight_002
+    100082: DoorFrontLeft_001
+    100084: Interior
+    100086: Roof
+    100088: Roof_001
+    100090: Exterior
+    100092: Floor
+    100094: Side1
+    100096: Side2
+    100098: DBackRight_002
     400000: Back
     400002: BackDown
     400004: BackUp
@@ -71,6 +88,23 @@ ModelImporter:
     400060: Humvee_008
     400062: Humvee_009
     400064: U
+    400066: BackL_001
+    400068: BackR_001
+    400070: BackUp_001
+    400072: CofferDwn
+    400074: CofferUp
+    400076: DBackLeft_001
+    400078: DBackRight_001
+    400080: DFrontRight_002
+    400082: DoorFrontLeft_001
+    400084: Interior
+    400086: Roof
+    400088: Roof_001
+    400090: Exterior
+    400092: Floor
+    400094: Side1
+    400096: Side2
+    400098: DBackRight_002
     2300000: BackDown
     2300002: BackUp
     2300004: DBackLeft
@@ -101,6 +135,23 @@ ModelImporter:
     2300054: Humvee_008
     2300056: Humvee_009
     2300058: U
+    2300060: BackL_001
+    2300062: BackR_001
+    2300064: BackUp_001
+    2300066: CofferDwn
+    2300068: CofferUp
+    2300070: DBackLeft_001
+    2300072: DBackRight_001
+    2300074: DFrontRight_002
+    2300076: DoorFrontLeft_001
+    2300078: Interior
+    2300080: Roof
+    2300082: Roof_001
+    2300084: Exterior
+    2300086: Floor
+    2300088: Side1
+    2300090: Side2
+    2300092: DBackRight_002
     3300000: BackDown
     3300002: BackUp
     3300004: DBackLeft
@@ -131,6 +182,23 @@ ModelImporter:
     3300054: Humvee_008
     3300056: Humvee_009
     3300058: U
+    3300060: BackL_001
+    3300062: BackR_001
+    3300064: BackUp_001
+    3300066: CofferDwn
+    3300068: CofferUp
+    3300070: DBackLeft_001
+    3300072: DBackRight_001
+    3300074: DFrontRight_002
+    3300076: DoorFrontLeft_001
+    3300078: Interior
+    3300080: Roof
+    3300082: Roof_001
+    3300084: Exterior
+    3300086: Floor
+    3300088: Side1
+    3300090: Side2
+    3300092: DBackRight_002
     4300000: Humvee
     4300002: Retro
     4300004: Phrs
@@ -160,7 +228,24 @@ ModelImporter:
     4300052: Antenna
     4300054: Front
     4300056: BackDown_001
-    7400000: Default Take
+    4300058: Interior
+    4300060: BackL_001
+    4300062: Roof
+    4300064: Roof_001
+    4300066: BackR_001
+    4300068: CofferDwn
+    4300070: CofferUp
+    4300072: BackUp_001
+    4300074: DoorFrontLeft_001
+    4300076: DFrontRight_002
+    4300078: DBackRight_001
+    4300080: DBackLeft_001
+    4300082: Side1
+    4300084: Side2
+    4300086: Floor
+    4300088: Exterior
+    4300090: DBackRight_002
+    7400000: Doors
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -169,9 +254,9 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    resampleCurves: 1
+    resampleCurves: 0
     optimizeGameObjects: 0
-    motionNodeName: 
+    motionNodeName: <Root Transform>
     rigImportErrors: 
     rigImportWarnings: 
     animationImportErrors: 
@@ -184,7 +269,103 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Doors
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Antenna
+        weight: 1
+      - path: BackDown
+        weight: 1
+      - path: BackDown/BackDown_001
+        weight: 1
+      - path: BackL
+        weight: 1
+      - path: BackL/BackL_001
+        weight: 1
+      - path: BackR
+        weight: 1
+      - path: BackR/BackR_001
+        weight: 1
+      - path: CofferUp
+        weight: 1
+      - path: CofferUp/BackUp_001
+        weight: 1
+      - path: CofferUp/CofferDwn
+        weight: 1
+      - path: DBackLeft
+        weight: 1
+      - path: DBackLeft/DBackLeft_001
+        weight: 1
+      - path: DBackLeft/Glss_002
+        weight: 1
+      - path: DBackRight
+        weight: 1
+      - path: DBackRight/DBackRight_002
+        weight: 1
+      - path: DBackRight/Glss_003
+        weight: 1
+      - path: DFrontRight
+        weight: 1
+      - path: DFrontRight/DFrontRight_002
+        weight: 1
+      - path: DFrontRight/Glss
+        weight: 1
+      - path: DoorFrontLeft
+        weight: 1
+      - path: DoorFrontLeft/DoorFrontLeft_001
+        weight: 1
+      - path: DoorFrontLeft/Glss_001
+        weight: 1
+      - path: Exterior
+        weight: 1
+      - path: Floor
+        weight: 1
+      - path: Front
+        weight: 1
+      - path: FrontGlass
+        weight: 1
+      - path: Interior
+        weight: 1
+      - path: Phrs
+        weight: 1
+      - path: Retro
+        weight: 1
+      - path: Roof
+        weight: 1
+      - path: Roof/Roof_001
+        weight: 1
+      - path: Side1
+        weight: 1
+      - path: Side2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
